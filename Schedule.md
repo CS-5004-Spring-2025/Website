@@ -29,5 +29,383 @@ Canvas</a>
 </thead>
 </table>
 
-Pending.
+:warning: <i>this schedule is subject to change!</i>
+
+<table>
+<thead>
+<tr>
+<th width="125px">Week</th>
+<th width="225px">Topics</th>
+<th width="1225px">Code/Resources</th>
+<th width="225px">Assignments Due</th>
+</tr>
+</thead>
+
+<!-- Week 1 -->
+<tr>
+<td>
+<b>1</b><br/>
+1/7 - 1/10
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module 1</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 2 -->
+<tr>
+<td>
+<b>2</b><br/>
+1/14 - 1/17
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 3 -->
+<tr>
+<td>
+<b>3</b><br/>
+1/21 - 1/24
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 4 -->
+<tr>
+<td>
+<b>4</b><br/>
+1/28 - 1/31
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 5 -->
+<tr>
+<td>
+<b>5</b><br/>
+2/4 - 2/7
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 6 -->
+<tr>
+<td>
+<b>6</b><br/>
+2/11 - 2/14
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+
+<!-- Week 7 -->
+<tr>
+<td>
+<b>7</b><br/>
+2/18 - 2/21
+</td>
+
+<!-- Topics -->
+<td>
+<i>2/19 - Berkeley Lab visit</i><br/>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 8 -->
+<tr>
+<td>
+<b>8</b><br/>
+2/25 - 2/28
+</td>
+
+<!-- Topics -->
+<td>
+<i>Sami traveling</i>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Spring Break -->
+<tr>
+<td colspan=4><b>Spring Break</b></td>
+</tr>
+
+
+<!-- Week 9 -->
+<tr>
+<td>
+<b>9</b><br/>
+3/11 - 3/14
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 10 -->
+<tr>
+<td>
+<b>10</b><br/>
+3/18 - 3/21
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 11 -->
+<tr>
+<td>
+<b>11</b><br/>
+3/25 - 3/28
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 12 -->
+<tr>
+<td>
+<b>12</b><br/>
+4/1 - 4/4
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 13 -->
+<tr>
+<td>
+<b>13</b><br/>
+4/8 - 4/11
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+<!-- Week 14 -->
+<tr>
+<td>
+<b>14</b><br/>
+4/15 - 4/18
+</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module</a><br/>
+</td>
+
+<!-- Resources -->
+<td>
+
+</td>
+
+<!-- Assignments -->
+<td>
+<b>Due :</b><br/>
+</td>
+</tr>
+<!------------------------------->
+<!------------------------------->
+
+
+
+<!-- Finals Week -->
+<tr>
+<td><b>Finals week</b><br/>4/22</td>
+<td colspan=3><b>Due - </b><br/><a href="">Final Project</a><br/></td>
+</tr>
+</table>
 
