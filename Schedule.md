@@ -55,6 +55,8 @@ Canvas</a>
 
 <!-- Resources -->
 <td>
+<a href="https://github.com/CS-5004-Spring-2025/Resources">Resources Repo</a><br/>
+<a href="https://github.com/CS-5004-Spring-2025/examples">Class Examples Repo</a><br/>
 <a href="https://docs.oracle.com/en/java/javase/23/docs/api/index.html">Javadoc</a><br/>
 </td>
 
