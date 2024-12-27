@@ -32,7 +32,7 @@ Pending.
 
 | Lab | Due |
 | :- | :- |
-| [Lab 1]() | Monday, September 9, 2024 |
+| [Lab 1]() | Monday, January 13, 2025 |
 <!-- | [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
 | [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
@@ -48,7 +48,7 @@ Pending.
 
 | Project | Due |
 | :- | :- |
-| [Project 1](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md) | Thursday, September 26, 2024 |
+| [Project 1]() | Thursday, January 23, 2025 |
 <!-- | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | [Project 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md) | Thursday, November 14, 2024 |

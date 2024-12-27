@@ -50,7 +50,13 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module 1</a><br/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-1-overview">Module 1</a><br/>
+<ul>
+<li>Hello World</li>
+<li>Data Types</li>
+<li>Classes</li>
+<li>Unit testing</li>
+</ul>
 </td>
 
 <!-- Resources -->
@@ -77,7 +83,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -102,7 +108,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -127,7 +133,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -152,7 +158,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -177,7 +183,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -204,7 +210,7 @@ Canvas</a>
 <!-- Topics -->
 <td>
 <i>2/19 - Berkeley Lab visit</i><br/>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -230,7 +236,7 @@ Canvas</a>
 <!-- Topics -->
 <td>
 <i>Sami traveling</i>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -261,7 +267,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -286,7 +292,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -311,7 +317,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -336,7 +342,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -361,7 +367,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
@@ -386,7 +392,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module</a><br/>
+<!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
