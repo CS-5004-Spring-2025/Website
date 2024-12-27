@@ -84,7 +84,11 @@ The class [Schedule](schedule.md) page includes links to relevant materials and
 assignments. Make sure to check the schedule early and often for course updates
 and information.
 
-The Modules section of the Canvas course provides links to a library of videos specifically produced for Align students. These will serve as a useful foundation for your learning.
+The Modules section of the Canvas course provides links to a library of videos
+specifically produced for Align students. These are provided as a supplementary
+resource for your learning. We may not cover all material that appears there.
+Any material that is required by this version of the course will be explicitly
+identified in class or on the class GitHub pages.
 
 There is no required text, but the following repository includes a README resource guide that includes links to many books and other resources that will be useful: [Resources](https://github.com/CS-5004-Spring-2025/Resources)
 
