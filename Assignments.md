@@ -6,11 +6,11 @@
 <tr>
 <th width="1000px">
 <p align="left">
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Syllabus.md">📚 Syllabus</a> 
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Syllabus.md">📚 Syllabus</a> 
 ・
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Assignments.md">🎯Assignments </a>
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Assignments.md">🎯Assignments </a>
 ・
-<a href="https://github.com/CS-5004-Spring-2025/Resources/blob/main/Schedule.md">📆Schedule </a>
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/Schedule.md">📆Schedule </a>
 </th>
 </p>
 
@@ -27,14 +27,13 @@ Canvas</a>
 
 Pending. 
 
-<!--
 # Labs
 *Labs are due at 11:59pm on the day of the deadline unless otherwise noted.*
 
 | Lab | Due |
 | :- | :- |
-| [Lab 1](https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md) | Monday, September 9, 2024 |
-| [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
+| [Lab 1]() | Monday, September 9, 2024 |
+<!-- | [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
 | [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
 | [Lab 5](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab5.md) | Monday, October 7, 2024 |
@@ -42,24 +41,17 @@ Pending.
 | [Lab 7](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab7.md) | Monday, October 21, 2024 |
 | [Lab 8](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab8.md) | Monday, October 28, 2024 |
 | [Lab 9](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab9.md) | Monday, November 18, 2024 |
-| [Lab 10](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab10.md) | Monday, November 25, 2024 |
+| [Lab 10](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab10.md) | Monday, November 25, 2024 | -->
 
 # Projects
-*Labs are due at 3:00pm on the day of the deadline unless otherwise noted.*
+*Labs are due at 4:50pm on the day of the deadline unless otherwise noted.*
 
 | Project | Due |
 | :- | :- |
 | [Project 1](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md) | Thursday, September 26, 2024 |
-| [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
+<!-- | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | [Project 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md) | Thursday, November 14, 2024 |
 | [Project 5](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md) | Friday, December 6, 2024 |
-| [Project 6](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project6.md) | Thursday, December 12, 2024 |
+| [Project 6](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project6.md) | Thursday, December 12, 2024 | -->
 
-# Participation Assignments
-
-| Assignment | Due |
-| :- | :- |
-| [Background Survey](https://forms.gle/uqhpRsoA5UH4jL1A9) | Friday, September 6, 2024 - 11:59pm |
-| Others | Pending. |
--->
