@@ -1,5 +1,7 @@
 # Resources
 
+:raised_hands: Many thanks to [Albert Lionelle](https://www.khoury.northeastern.edu/people/albert-lionelle/) and the online 5004 team for collecting and sharing these resources!
+
 Contains various class resources that will be added as the course progresses.
 
 - [Resources](#resources)
@@ -22,18 +24,13 @@ Contains various class resources that will be added as the course progresses.
 
 ## Integrated Development Environments (IDEs)
 
-We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. We recommend you install them both, and try out which one you like best. Make sure to restart your computer after installing them, as they modify your path and environment variables.
+We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. Make sure to restart your computer after installing them, as they modify your path and environment variables.
 
-Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
-
-
+Different professors lean towards different IDEs. Sami will use VS code in class, and the starter code repositories will be set up to import into VS Code.
 
 ### Recommended - Visual Studio Code (VS code)
 
-VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
-
-
-
+VS Code is a popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
 
 To install Visual Studio Code, go to [VS Code Download](https://code.visualstudio.com/download) and download the version for your operating system. You can also install it from the Microsoft Store if you are on Windows.
 
@@ -80,7 +77,7 @@ We will use markdown for our reports in this class. Here are some resources to h
 
 
 ## Git and Github
-You will be using Github classroom, which requires a github.com account (not to be confused with Khoury College's Github Enterprise account). You will need to know how to use git to submit your assignments. Here are some resources to help you get started with git. For the most part, you are welcome (and encouraged) to use the built in IDE features for git, but it is good to know how to use the command line as well.
+You will be using Github classroom, which requires a github.com account (not to be confused with Khoury College's Github Enterprise account). You will need to know how to use git to submit your assignments. Here are some resources to help you get started with git. For the most part, you are welcome (and encouraged) to use the built-in IDE features for git, but it is good to know how to use the command line as well.
 
 
 * [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) - a LinkedIn Learning guide
@@ -100,7 +97,7 @@ As a reminder, git is installed by default on many Mac and Linux systems, but on
 
 ## Gradle
 
-We will use gradle for our build system for the course. By default if you install IntelliJ IDEA, it will come with gradle. If you are using VS Code, you may need to install it separately (though installing both IntelliJ and VS Code is not a bad idea as you can test which one you want). It is important to have VS Code Gradle extension installed if you are using VS Code.
+We will use gradle for our build system for the course. By default if you install IntelliJ IDEA, it will come with gradle. If you are using VS Code, you may need to install it separately. It is important to have VS Code Gradle extension installed if you are using VS Code.
 
 For the most part you will not need to edit any gradle files. You just need it installed to run the tests.
 
@@ -145,7 +142,7 @@ The following resources for Java Programming and Object Oriented Design are opti
 
 ## CoPilot
 
-You are encouraged to use Copilot starting with homework 03 - **for syntax help**. You will find if you give too much to copilot it will break the design patterns you are trying to learn. Before you use copilot, we encourage you to follow this online guide. 
+You are may use Copilot **for syntax help**. You will find if you give too much to copilot it will break the design patterns you are trying to learn. Before you use copilot, we encourage you to follow this online guide. 
 
 * [GitHub Copilot Fundamentals - Understand the AI pair programmer](https://learn.microsoft.com/en-us/training/paths/copilot/)
 * [Responsible AI with Github Copilot](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/) - important!
