@@ -69,7 +69,8 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Fri, Jan 10:</b><br/>
+<a href="https://forms.gle/6ztAr5tC98akL87QA">Background Survey</a><br/>
 </td>
 </tr>
 <!------------------------------->
