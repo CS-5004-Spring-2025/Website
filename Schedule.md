@@ -95,8 +95,8 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
-<b>Due - Mon, Jan 13:</b><br/><a href="">Lab 1 - TBA</a><br/>
-<!-- <b>Due - Mon, Jan 13:</b><br/><a href="https://github.com/CS-5004-Spring-2025/Lab1/blob/main/README.md">Lab 1</a><br/> -->
+<!-- <b>Due - Mon, Jan 13:</b><br/><a href="">Lab 1 - TBA</a><br/> -->
+<b>Due - Mon, Jan 13:</b><br/><a href="https://github.com/CS-5004-Spring-2025/Lab1/blob/main/README.md">Lab 1</a><br/>
 </td>
 </tr>
 <!------------------------------->
