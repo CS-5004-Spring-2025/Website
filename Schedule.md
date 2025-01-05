@@ -122,8 +122,7 @@ Canvas</a>
 <!-- Assignments -->
 <td>
 <b>Due - Thu, Jan 23:</b> <br/>
-<a href="">Project 1 - TBA</a><br/>
-<!-- <a href="https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md">Project 1</a><br/> -->
+<a href="https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md">Project 1</a><br/>
 
 </td>
 </tr>
