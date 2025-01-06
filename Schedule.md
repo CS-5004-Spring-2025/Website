@@ -65,6 +65,8 @@ Canvas</a>
 <a href="https://github.com/CS-5004-Spring-2025/examples">Class Examples Repo</a><br/>
 <a href="https://docs.oracle.com/en/java/javase/23/docs/api/index.html">Javadoc</a><br/>
 <a href="https://se-education.org/guides/conventions/java/intermediate.html">Style Guide</a><br/>
+<hr/>
+<a href="https://cs-5004-spring-2025.github.io/slides/week1">Week 1 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
