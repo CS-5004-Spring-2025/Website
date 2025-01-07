@@ -36,7 +36,8 @@ Pending.
 # Teaching Assistant<br/>
 **TA:** Shufan Chai<br/>
 **Contact:** chai.shu@northeastern.edu or via the class Team<br/>
-**Office Hours:** Pending. <br/>
+**Office Hours:** Wednesday 10:00-11:00 (**Online**); Thursday 10:00-12:00
+(**Drop in/Online, Library Lounge 126**). <br/>
 
 
 # Class Hours<br/>
