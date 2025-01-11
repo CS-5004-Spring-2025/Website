@@ -87,7 +87,13 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-2-overview">Module 2</a><br/>
+<ul>
+<li>Methods</li>
+<li>Conditions/Loops</li>
+<li>Collections pt 1 (Lists)</li>
+<li>Exceptions</li>
+</ul>
 </td>
 
 <!-- Resources -->
