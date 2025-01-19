@@ -134,8 +134,8 @@ Canvas</a>
 <!-- Assignments -->
 <td>
 <b>Due - Mon, Jan 20:</b><br/><a href="https://github.com/CS-5004-Spring-2025/Lab2/blob/main/README.md">Lab 2</a><br/>
-<b>Due - Thu, Jan 23:</b> <br/>
-<a href="https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md">Project 1</a><br/>
+<s><b>Due - Thu, Jan 23:</b> <br/>
+<a href="https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md">Project 1</a><br/></s>
 
 </td>
 </tr>
@@ -161,7 +161,10 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Mon, Jan 27:</b><br/>
+<a href="https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md">Project 1</a><br/>
+<b>Due - Fri, Jan 31:</b><br/>
+<a href="https://github.com/CS-5004-Spring-2025/Lab3/blob/main/README.md">Lab 3</a><br/>
 </td>
 </tr>
 <!------------------------------->
