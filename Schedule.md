@@ -119,7 +119,11 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-3-overview">Module 3</a><br/>
+<ul>
+<li>enum, switch</li>
+<li>Inheritance</li>
+</ul>
 </td>
 
 <!-- Resources -->
