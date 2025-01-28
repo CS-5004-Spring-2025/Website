@@ -35,6 +35,7 @@ Pending.
 | [Lab 1](https://github.com/CS-5004-Spring-2025/Lab1/blob/main/README.md) | Monday, January 13, 2025 |
 | [Lab 2](https://github.com/CS-5004-Spring-2025/Lab2/blob/main/README.md) | Monday, January 20, 2025 |
 | [Lab 3](https://github.com/CS-5004-Spring-2025/Lab3/blob/main/README.md) | Friday, January 31, 2025 |
+| [Lab 4](https://github.com/CS-5004-Spring-2025/Website/blob/main/assignments/Lab4.md) | Tuesday, February 4, 2025 |
 <!-- | [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
 | [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
