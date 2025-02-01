@@ -192,7 +192,7 @@ Canvas</a>
 <li>Lesson 12: Map Abstraction</li>
 <li>Lesson 16: Higher-Order Functions</li>
 </ul>
-<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
+<br/>
 <a href="https://northeastern.instructure.com/courses/206427/pages/module-5-overview">Module 5</a><br/>
 <ul>
 <li>Less 4: From Equality to Ordering</li>
