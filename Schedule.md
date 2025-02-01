@@ -158,7 +158,7 @@ Canvas</a>
 <li>Lesson 8: Higher-Order Abstractions</li>
 <li>Lesson 7: Abstraction for Sorting</li>
 </ul>
-<i>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</i>
+<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
 </td>
 
 <!-- Resources -->
@@ -186,12 +186,23 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a><br/>
+<ul>
+<li>Lesson 7: Abstraction for Sorting</li>
+<li>Lesson 12: Map Abstraction</li>
+<li>Lesson 16: Higher-Order Functions</li>
+</ul>
+<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-5-overview">Module 5</a><br/>
+<ul>
+<li>Less 4: From Equality to Ordering</li>
+</ul>
+<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
 </td>
 
 <!-- Resources -->
 <td>
-
+<a href="https://cs-5004-spring-2025.github.io/slides/week5">Week 5 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
