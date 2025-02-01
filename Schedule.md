@@ -194,7 +194,7 @@ Canvas</a>
 <br/>
 <a href="https://northeastern.instructure.com/courses/206427/pages/module-5-overview">Module 5</a><br/>
 <ul>
-<li>Less 4: From Equality to Ordering</li>
+<li>Lesson 4: From Equality to Ordering</li>
 </ul>
 </td>
 
