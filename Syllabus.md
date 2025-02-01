@@ -24,7 +24,6 @@ Canvas</a>
 </tr>
 </thead>
 </table>
-Pending.
 
 # Instructor Information<br/>
 **Instructor:** Sami Rollins (please call me Sami!)<br/>
@@ -36,8 +35,7 @@ Pending.
 # Teaching Assistant<br/>
 **TA:** Shufan Chai<br/>
 **Contact:** chai.shu@northeastern.edu or via the class Team<br/>
-**Office Hours:** Wednesday 10:00-11:00 (**Online**); Thursday 10:00-12:00
-(**Drop in/Online, Library Lounge 126**). <br/>
+**Office Hours:** Wednesday 3:00-4:00pm; Saturday 2:00-3:00pm (**Online**). <br/>
 
 
 # Class Hours<br/>
