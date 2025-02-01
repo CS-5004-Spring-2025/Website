@@ -151,7 +151,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a><a href="note">**</a><br/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a> | <a href="#note">**</a><br/>
 <ul>
 <li>Lesson 1: Static Data</li>
 <li>Lesson 6: Abstracting Out the Predicate</li>
@@ -185,7 +185,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a><br/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a> | <a href="#note">**</a><br/>
 <ul>
 <li>Lesson 7: Abstraction for Sorting</li>
 <li>Lesson 12: Map Abstraction</li>
