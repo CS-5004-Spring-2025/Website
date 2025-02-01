@@ -197,7 +197,7 @@ Canvas</a>
 <ul>
 <li>Less 4: From Equality to Ordering</li>
 </ul>
-<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
+<i><p font-size=5px>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</p></i>
 </td>
 
 <!-- Resources -->
