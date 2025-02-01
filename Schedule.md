@@ -151,14 +151,13 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a><br/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a>**<br/>
 <ul>
 <li>Lesson 1: Static Data</li>
 <li>Lesson 6: Abstracting Out the Predicate</li>
 <li>Lesson 8: Higher-Order Abstractions</li>
 <li>Lesson 7: Abstraction for Sorting</li>
 </ul>
-<i><small>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
 </td>
 
 <!-- Resources -->
@@ -197,7 +196,6 @@ Canvas</a>
 <ul>
 <li>Less 4: From Equality to Ordering</li>
 </ul>
-<i><p font-size=5px>Pay particular attention to the lessons above. You may wish to watch some of the other lessons to fully understand the examples used.</p></i>
 </td>
 
 <!-- Resources -->
@@ -458,3 +456,4 @@ Canvas</a>
 </tr>
 </table>
 
+** <i><small>Pay particular attention to the lessons cited. You may wish to watch some of the other lessons to fully understand the examples used.</small></i>
