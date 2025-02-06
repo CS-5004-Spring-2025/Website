@@ -261,7 +261,9 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Thurs, Feb 20:</b><br/>
+<a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/assignments/Lab6.md">Lab 6</a><br/>
+
 </td>
 </tr>
 <!------------------------------->
