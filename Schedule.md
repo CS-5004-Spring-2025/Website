@@ -207,6 +207,8 @@ Canvas</a>
 <td>
 <b>Due - Tues, Feb 4:</b><br/>
 <a href="https://github.com/CS-5004-Spring-2025/Website/blob/main/assignments/Lab4.md">Lab 4</a><br/>
+<b>Due - Fri, Feb 7:</b><br/>
+<a href="https://northeastern.instructure.com/courses/206427/quizzes/677920">Lab 5</a><br/>
 </td>
 </tr>
 <!------------------------------->
