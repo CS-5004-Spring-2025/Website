@@ -54,6 +54,7 @@ Pending.
 | :- | :- |
 | [Project 1](https://github.com/CS-5004-Spring-2025/Project1/blob/main/README.md) | Monday, January 27, 2025 |
 | [Project 2](https://github.com/CS-5004-Spring-2025/Project2/blob/main/README.md) | Monday, February 10, 2025 |
+| [Project 3](https://github.com/CS-5004-Spring-2025/Project3/blob/main/README.md) | Thursday, March 14, 2025 |
 <!-- | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | [Project 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md) | Thursday, November 14, 2024 |
