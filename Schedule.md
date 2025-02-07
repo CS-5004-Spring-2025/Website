@@ -251,6 +251,7 @@ Canvas</a>
 <!-- Topics -->
 <td>
 <i>2/19 - Berkeley Lab visit</i><br/>
+<i>2/21 - Special Guest <a href="https://www.linkedin.com/in/roy-chen-dc024/">Roy Chen</a> Sr. SDET @ TikTok</i><br/>
 <!-- <a href="">Module</a><br/> -->
 </td>
 
