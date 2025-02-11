@@ -223,12 +223,16 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-4-overview">Module 4</a> | <a href="#note">**</a><br/>
+<ul>
+<li>Lesson 2: Linked Lists and Recursive Structs</li>
+<li>Lesson 15: Java Arrays</li>
+</ul>
 </td>
 
 <!-- Resources -->
 <td>
-
+<a href="https://cs-5004-spring-2025.github.io/slides/week6">Week 6 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
