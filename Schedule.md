@@ -256,11 +256,15 @@ Canvas</a>
 <td>
 <i>2/19 - Berkeley Lab visit</i><br/>
 <i>2/21 - Special Guest <a href="https://www.linkedin.com/in/roy-chen-dc024/">Roy Chen</a> Sr. SDET @ TikTok</i><br/>
+<hr/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-7-overview">Module 7</a><br/>
+<ul>
+<li>Lesson 2 - SOLID Principles</li>
+</ul>
 <a href="https://northeastern.instructure.com/courses/206427/pages/module-6-overview">Module 6</a><br/>
 <ul>
 <li>Lesson 9: Data Structures</li>
 </ul>
-
 </td>
 
 <!-- Resources -->
