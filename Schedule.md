@@ -302,6 +302,8 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
+<b>Due - Fri, Feb 28:</b><br/>
+<a href="https://northeastern.instructure.com/courses/206427/quizzes/680084">Lab 7</a><br/>
 <b>Due :</b><br/>
 </td>
 </tr>
