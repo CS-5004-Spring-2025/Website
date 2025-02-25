@@ -297,7 +297,7 @@ Canvas</a>
 
 <!-- Resources -->
 <td>
-
+<a href="https://cs-5004-spring-2025.github.io/slides/week7">Week 7 Slides, cont.</a><br/>
 </td>
 
 <!-- Assignments -->
