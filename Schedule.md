@@ -389,6 +389,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
+<i>Career Panel on 3/25</i>
 <!-- <a href="">Module</a><br/> -->
 </td>
 
@@ -399,7 +400,8 @@ Canvas</a>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Thurs, Mar 27:</b><br/>
+<a href="https://github.com/CS-5004-Spring-2025/Project3/blob/main/Project4.md">Project 4</a><br/>
 </td>
 </tr>
 <!------------------------------->
