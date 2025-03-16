@@ -363,12 +363,22 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-8-overview">Module 8</a><br/>
+<ul>
+<li>Lessons 1 and 2 - Model Design for Tic Tac Toe</li>
+</ul>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-9-overview">Module 9</a><br/>
+<ul>
+<li>Lessons 1 and 2 - Controller Design</li>
+</ul>
 <!-- <a href="">Module</a><br/> -->
+</td>
+
 </td>
 
 <!-- Resources -->
 <td>
-
+MVC Continued
 </td>
 
 <!-- Assignments -->
