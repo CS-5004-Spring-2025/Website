@@ -385,6 +385,8 @@ MVC Continued
 <td>
 <b>Due - Mon, Mar 17:</b><br/>
 <a href="https://northeastern.instructure.com/courses/206427/quizzes/681668">Lab 8</a><br/>
+<b>Due - Tues, Mar 18:</b><br/>
+<a href="https://northeastern.instructure.com/courses/206427/quizzes/682908">Lab 9</a><br/>
 </td>
 </tr>
 <!------------------------------->

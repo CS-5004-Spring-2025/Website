@@ -40,6 +40,7 @@ Pending.
 | [Lab 6](https://github.com/CS-5004-Spring-2025/Website/blob/main/assignments/Lab6.md) | Thursday, February 20, 2025 |
 | [Lab 7](https://northeastern.instructure.com/courses/206427/quizzes/680084) | Friday, February 28, 2025 |
 | [Lab 8](https://northeastern.instructure.com/courses/206427/quizzes/681668) | Monday, March 17, 2025 |
+| [Lab 9](https://northeastern.instructure.com/courses/206427/quizzes/682908) | Tuesday, March 18, 2025 |
 <!-- | [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
 | [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
