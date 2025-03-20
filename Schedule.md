@@ -378,7 +378,8 @@ Canvas</a>
 
 <!-- Resources -->
 <td>
-MVC Continued
+MVC Continued<br/>
+<a href="https://cs-5004-spring-2025.github.io/slides/week10">Week 10 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
