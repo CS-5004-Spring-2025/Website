@@ -380,6 +380,7 @@ Canvas</a>
 <td>
 MVC Continued<br/>
 <a href="https://cs-5004-spring-2025.github.io/slides/week10">Week 10 Slides</a><br/>
+<a href="https://learngitbranching.js.org/">Learn Git Branching</a><br/>
 </td>
 
 <!-- Assignments -->
