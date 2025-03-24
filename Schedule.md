@@ -403,13 +403,15 @@ MVC Continued<br/>
 
 <!-- Topics -->
 <td>
-<i>Career Panel on 3/25</i>
+<i>Career Panel on 3/25</i><br/>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-12-overview">Module 12</a><br/>
+<ul><li>Iterator Design Pattern</li></ul>
 <!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
 <td>
-
+<a href="https://refactoring.guru/design-patterns">Design Patterns</a><br/>
 </td>
 
 <!-- Assignments -->
