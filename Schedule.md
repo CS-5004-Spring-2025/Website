@@ -406,11 +406,17 @@ MVC Continued<br/>
 <i>Career Panel on 3/25</i><br/>
 <a href="https://northeastern.instructure.com/courses/206427/pages/module-12-overview">Module 12</a><br/>
 <ul><li>Iterator Design Pattern</li></ul>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-13-overview">Module 13</a><br/>
+<ul><li>Strategy Design Pattern</li></ul>
+<a href="https://northeastern.instructure.com/courses/206427/pages/module-14-overview">Module 14</a><br/>
+<ul><li>Adapter Design Pattern</li></ul>
+
 <!-- <a href="">Module</a><br/> -->
 </td>
 
 <!-- Resources -->
 <td>
+<a href="https://cs-5004-spring-2025.github.io/slides/week11">Week 11 Slides</a><br/>
 <a href="https://refactoring.guru/design-patterns">Design Patterns</a><br/>
 </td>
 
