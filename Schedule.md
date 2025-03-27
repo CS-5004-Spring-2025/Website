@@ -448,7 +448,8 @@ MVC Continued<br/>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Fri, Apr 4:</b><br/>
+<a href="assignments/FinalProject.md">Final Project - Proposal</a><br/>
 </td>
 </tr>
 <!------------------------------->
@@ -463,7 +464,7 @@ MVC Continued<br/>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<i>4/11 - Final Quiz</i><br/>
 </td>
 
 <!-- Resources -->
@@ -473,7 +474,8 @@ MVC Continued<br/>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Thurs, Apr 10:</b><br/>
+<a href="assignments/FinalProject.md">Final Project - Design</a><br/>
 </td>
 </tr>
 <!------------------------------->
@@ -498,7 +500,8 @@ MVC Continued<br/>
 
 <!-- Assignments -->
 <td>
-<b>Due :</b><br/>
+<b>Due - Tues, Apr 15:</b><br/>
+<a href="assignments/FinalProject.md">Final Project - Release 1</a><br/>
 </td>
 </tr>
 <!------------------------------->
@@ -509,7 +512,10 @@ MVC Continued<br/>
 <!-- Finals Week -->
 <tr>
 <td><b>Finals week</b><br/>4/22</td>
-<td colspan=3><b>Due - </b><br/><a href="">Final Project</a><br/></td>
+<td colspan=4>
+<b>Due - Thurs, Apr 24:</b><br/>
+<a href="assignments/FinalProject.md">Final Project - Final Submission</a><br/>
+</td>
 </tr>
 </table>
 

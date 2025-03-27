@@ -60,6 +60,10 @@ Pending.
 | [Project 2](https://github.com/CS-5004-Spring-2025/Project2/blob/main/README.md) | Monday, February 10, 2025 |
 | [Project 3](https://github.com/CS-5004-Spring-2025/Project3/blob/main/README.md) | Thursday, March 14, 2025 |
 | [Project 4](assignments/Project4.md) | Thursday, March 27, 2025 |
+| [Final Project - Proposal](assignments/FinalProject.md) | Friday, April 4, 2025 |
+| [Final Project - Design](assignments/FinalProject.md) | Thursday, April 10, 2025 |
+| [Final Project - Release 1](assignments/FinalProject.md) | Tuesday, April 15, 2025 |
+| [Final Project - Final](assignments/FinalProject.md) | Thursday, April 24, 2025 |
 <!-- | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | [Project 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md) | Thursday, November 14, 2024 |
