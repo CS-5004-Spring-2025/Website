@@ -493,8 +493,7 @@ MVC Continued<br/>
 <td>
 <i>4/15 - Release 1 Demonstrations</i><br/>
 <i>4/16 - <a href="https://www.accelevents.com/e/Oakland-Student-Showcase-Spring-2025">Project Showcase</a></i><br/>
-<i>4/17 - Optional Project check-in</i><br/>
-<i>4/18 - Optional Project check-in</i><br/>
+<i>4/17-18 - Optional Project check-in</i><br/>
 </td>
 
 <!-- Resources -->
