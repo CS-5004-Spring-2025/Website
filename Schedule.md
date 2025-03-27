@@ -438,7 +438,7 @@ MVC Continued<br/>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<i>4/4 - Oral Presentations</i><br/>
 </td>
 
 <!-- Resources -->
@@ -464,6 +464,7 @@ MVC Continued<br/>
 
 <!-- Topics -->
 <td>
+<i>4/10 - Project Workday</i><br/>
 <i>4/11 - Final Quiz</i><br/>
 </td>
 
@@ -490,7 +491,10 @@ MVC Continued<br/>
 
 <!-- Topics -->
 <td>
-<!-- <a href="">Module</a><br/> -->
+<i>4/15 - Release 1 Demonstrations</i><br/>
+<i>4/16 - <a href="https://www.accelevents.com/e/Oakland-Student-Showcase-Spring-2025">Project Showcase</a>></i><br/>
+<i>4/17 - Optional Project check-in</i><br/>
+<i>4/18 - Optional Project check-in</i><br/>
 </td>
 
 <!-- Resources -->
@@ -502,6 +506,7 @@ MVC Continued<br/>
 <td>
 <b>Due - Tues, Apr 15:</b><br/>
 <a href="assignments/FinalProject.md">Final Project - Release 1</a><br/>
+*Project work and demos will replace formal class during finals week.*
 </td>
 </tr>
 <!------------------------------->
