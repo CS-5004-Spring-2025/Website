@@ -11,7 +11,6 @@ Assignment Link: [https://classroom.github.com/a/I9N7G5Iu](https://classroom.git
 For this project, you will propose and implement a project of your choosing. You may implement an extension of a previous project or a new project related to something we have discussed during the semester.
 
 ## Requirements
-git 
 Your final project is an opportunity for you to explore a project that aligns with your interests and  demonstrates everything you have learned this semester about good design practices, development of large software in Java, and learning new things. 
 
 Your final submission will be a working program with *at least three significant features* in addition to any basic functionality. Several examples are described below. It is very likely that you will need to teach yourself new things in order to complete this project! You can always seek help during office hours.
