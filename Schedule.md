@@ -443,7 +443,7 @@ MVC Continued<br/>
 
 <!-- Resources -->
 <td>
-
+<a href="https://cs-5004-spring-2025.github.io/slides/week12">Week 12 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
