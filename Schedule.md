@@ -470,7 +470,7 @@ MVC Continued<br/>
 
 <!-- Resources -->
 <td>
-
+<a href="https://cs-5004-spring-2025.github.io/slides/week13">Week 13 Slides</a><br/>
 </td>
 
 <!-- Assignments -->
